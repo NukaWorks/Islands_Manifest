@@ -11,4 +11,5 @@
   <project path="ModularKit" name="ModularKit" revision="develop" />
   <project path="Islands" name="Islands" />
   <project path="Build" name="Islands_Build" />
+  <project path="UiKit" name="UiKit" />
 </manifest>
